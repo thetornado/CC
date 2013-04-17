@@ -1,4 +1,4 @@
-local url = "https://raw.github.com/stevenlr/CC/master/"
+local url = "https://github.com/thetornado/CC/blob/master/"
 local tArgs = {...}
 
 prog = tArgs[1]
